@@ -238,5 +238,5 @@ The seat layout is represented using a 5 × 10 two-dimensional array.
 
 ## Team Members
 
-- [Your Name]
+- Jeswin
 - Aditya

@@ -1,0 +1,16 @@
+# Compiled C executable
+dsa
+dsa.exe
+a.out
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Debug files
+*.dSYM/
